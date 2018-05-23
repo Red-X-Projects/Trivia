@@ -31,10 +31,17 @@ mIRC game for IRCWX Servers.
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
-make install
-npm test
+Coming soon
 ```
 
+## Team Project Twisted Trivia
+<a name="team-members"></a>Team Members
+
+"Reddix" Talk@redxprojects.com
+
+"Luc" Talk@redxprojects.com
+
+"Eniam Reg" Talk@redxprojects.com
 
 
 ## Information
@@ -47,9 +54,9 @@ Future version will be free to download.
 
 [https://github.com/Red-X-Projects/Trivia](https://github.com/Red-X-Projects/Trivia)
 
-## Contributing
+## Contact
 
-[website]: https://github.com/yourname/yourproject/wiki
+[website]: https://redxprojects.com
 [facebook]: https://www.facebook.com/RedXProjects/
 [email]: Talk@redxprojects.com
 [other projects] : https://github.com/Red-X-Projects
