@@ -1,7 +1,6 @@
 
 # Super Twisted Trivia 
-<a href="http://mirc.com" target="_blank">
-> mIRC game for IRCWX Servers.
+mIRC game for IRCWX Servers.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -9,7 +8,7 @@
 
 ![RedXProjects](https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/22228533_1157881041010833_2284566100979801844_n.png?_nc_cat=0&oh=ce7eb160aa17894e8e5b6f60eaf7ad8d&oe=5B89474D) 
 
-## Update History
+## Update Patch Notes & Hotfixes
 
 * 2.0.1
     * Next Update release: may 30 2018
@@ -25,8 +24,6 @@
     * CHANGE: sets of `foo(tokens)` to `bar(tokens)`
 * 1.0.1
     * Work in progress
-
-## Update Patch Notes & Hotfixes
 
 
 ## Tips, Tricks and commands.
