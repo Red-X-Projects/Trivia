@@ -1,5 +1,5 @@
-# Super Twisted Trivia by RedXProjects
-> A curated list of Super Twisted Trivia mIRC game for IRCWX Servers.
+# Super Twisted Trivia by RedXProjects <img src="https://www.redxprojects.com/img/jk.png" align="right" />
+>
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
