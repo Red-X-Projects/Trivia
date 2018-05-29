@@ -1,9 +1,5 @@
 <img src="https://www.redxprojects.com/img/jk.png" align="right" />
 # Super Twisted Trivia
->
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 ## Update Patch Notes & Hotfixes
 
