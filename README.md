@@ -13,8 +13,33 @@ mIRC game for IRCWX Servers.
 * 2.0.1
     * Next Update release: may 30 2018
 ```sh
-    * CHANGES: No information yet `test`
-    * ADD: No information yet `test`
+* FIXED: Huge trivia error, Points doubler questions.
+* The error occurs when there are more players that answer correct within the question time.
+* The second player gets 1.5 times the points instead of 0.5.
+* The third gets 1.33 times the points instead of 0.33 etc
+
+* UPGRADE: Theme and bug fix.
+* Theme is upgraded and bugs are fixed.
+
+* ADD: Donation jackpot
+* 250 points is added in pot for every question that is answered correctly.
+
+* ADD: happy hour.
+* Happy hour will dubble points on questions and jackpot if answer is right.
+* happy hour starts every 3 hours for 1 hour, To see timers typ: !happyhour
+
+* ADD: More bonus.
+* Everyone will now get bonus if rise in: CPM, Hof, Speed list.
+
+* ADD: Left or Right
+* Left or Right is a mini game that can popup randomly
+* You need to make a choice !left Or !right, bot will make a randomly choice what side will win.
+
+* ADD: Daily reward system
+* Daily bonus everyday on joining the room
+* When joining the room you will get 5 daily reward tickets
+* To use the tickets typ !daily
+* Things you can win in daily: Trivia points 90%, Lucky-Tickets 40%, Silver-hammer: 20%, Brown-hammer: 10%.
 ```
 * 1.1.1
     * ADD: Bonus games (Frenzy and Roa)
