@@ -44,6 +44,10 @@
     * Left or Right is a mini game that can popup randomly
     * You need to make a choice !left Or !right, bot will make a randomly choice what side will win.
 
+* CHANGE: Word Frenzy
+    * Word frenzy got now scrambled words.
+    * if someone guess the scrambled word they get 5.000 points.
+
 * ADD: Daily reward system
     * Daily bonus everyday on joining the room
     * When joining the room you will get 5 daily reward tickets
