@@ -28,6 +28,18 @@ mIRC game for IRCWX Servers.
     * 1000 points is added if its happy hour, all donations are from the bot not the users points.
     * Family feud bonus will also donate to the !steal Pot
 
+* ADD: User profile system
+    * From now on every user that enters the room will get a profile connected to gate.
+    * this means when you change your name you keep your points.
+    * this also means we can build up a full detailed information profile of our users
+    * Details that are saved are: 
+        * Time and date of register profile (when joining room auto registerd)
+        * All points that are made within a year will be saved for the yearly top 10 hof rank list.
+        * Cant lose your points because those are saved, even when changing name.
+        * All tickets are saved in profile, future update will include more minigames that needs tickets to activate them.
+        * Will store how many words you typed for the most words hof list.
+        * Want to know all information? Command is !myprof
+
 * ADD: happy hour.
     * Happy hour will dubble points on questions and jackpot if answer is right.
     * happy hour starts every 3 hours for 1 hour, To see timers typ: !happyhour
@@ -45,6 +57,15 @@ mIRC game for IRCWX Servers.
     * When joining the room you will get 5 daily reward tickets
     * To use the tickets typ !daily
     *  Things you can win in daily: Trivia points 90%, Lucky-Tickets 40%, Silver-hammer: 20%, Brown-hammer: 10%.
+
+* ADD: New Commands. 
+    * Can now buy:
+        * Life time hammer Silver 1.000.000 trivia points
+        * Life time hammer Brown 2.000.000 trivia points
+        * Lucky tickets, 5 for 10.000 trivia points
+
+
+
 
 
 ```
