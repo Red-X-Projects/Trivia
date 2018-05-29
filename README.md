@@ -1,4 +1,4 @@
-# Super Twisted Trivia by RedXProjects <img src="https://www.redxprojects.com/img/jk.png" align="right" />
+# Super Twisted Trivia <img src="https://www.redxprojects.com/img/jk.png" align="right" />
 >
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
