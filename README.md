@@ -13,7 +13,7 @@ mIRC game for IRCWX Servers.
 * 2.0.1
     * Next Update release: may 30 2018
 ```
-2.0.1 Trivia Notes:
+2.0.1 Release Notes:
 * FIXED: Huge trivia error, Points doubler questions.
     * The error occurs when there are more players that answer correct within the question time.
     * The second player gets 1.5 times the points instead of 0.5.
