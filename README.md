@@ -1,20 +1,8 @@
 
-# Super Twisted Trivia 
-mIRC game for IRCWX Servers.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome READMEs
-
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
-
-
+# Super Twisted Trivia by [![RedXProjects](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of Super Twisted Trivia
 
 ![RedXProjects](https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/22228533_1157881041010833_2284566100979801844_n.png?_nc_cat=0&oh=ce7eb160aa17894e8e5b6f60eaf7ad8d&oe=5B89474D) 
 
