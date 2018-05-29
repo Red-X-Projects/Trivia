@@ -20,6 +20,12 @@
     * 1000 points is added if its happy hour, all donations are from the bot not the users points.
     * Family feud bonus will also donate to the !steal Pot
 
+* ADD: answer corrector
+    * If a answer contains more then 90% of the correct one its answered correctly.
+    * The points for a autocorrect are 50% less so if its normaly 500 its then 250
+    * Corrector can only use by those under the top10 hoflist.
+    * Keep in mind that it will not correct everything.
+
 * ADD: User profile system
     * From now on every user that enters the room will get a profile connected to gate.
     * this means when you change your name you keep your points.
