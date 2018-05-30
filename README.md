@@ -1,5 +1,7 @@
 
 # Super Twisted Trivia 2018
+by https://www.redxprojects.com
+
 Original by petertje from year 2004
 https://www.tapatalk.com/groups/petertje/
 
