@@ -1,11 +1,14 @@
 
-# Super Twisted Trivia
+# Super Twisted Trivia 2018
+Original by petertje from year 2004
+https://www.tapatalk.com/groups/petertje/
+
 ## Update Patch Notes & Hotfixes
 
-* 2.0.1
-    * Next Update release: may 30 2018
+* 2.1.1
+    * Next Update release: aug 30 2018
 ```
-2.0.1 Release Notes:
+2.0.1 Release Notes may 30 2018:
 * FIXED: Huge trivia error, Points doubler questions.
     * The error occurs when there are more players that answer correct within the question time.
     * The second player gets 1.5 times the points instead of 0.5.
@@ -15,10 +18,40 @@
 * UPGRADE: Theme and bug fix.
     * theme is upgraded and bugs are fixed.
 
-* ADD: Donation jackpot
+* ADD: Lucky jackpot
+    * Lucky jackpot can be won my !luck command
+    * You will need lucky tickets to do !luck
+    * Every question will donate a amout in the lucky pot.
+
+* ADD: Donation Lucky jackpot
     * 250 points is added in pot for every question that is answered correctly.
     * 1000 points is added if its happy hour, all donations are from the bot not the users points.
-    * Family feud bonus will also donate to the !steal Pot
+    * Family feud bonus will also donate to the lucky jackpot
+
+* ADD: Trivia Store
+    * You can now buy hammers and lucky tickets
+    * Command : !buy
+
+* Changes: Game modes 
+    * Frenzy: This is a updated version and infused with Scrambloggle
+        * There is now a 10 letter word present that can be guessed for 5.000 trivia points
+    * FF: Family Feud theme is updated and works the same as before.
+    * ROA: Rad of adventures works still the same, it got his own Roa jackpot
+    * Trivia Bet: Trivia bet is fixed and is working perfect.
+
+* Bonus Games: 
+    * Bonus rounds come randomly every 20 questions.
+    * Trivia bet: Place a bet with .10 or .max, Question will come in notice
+    * Family Feud: answer the question with multiple answer.
+    * Rad Of Adventures: place a bet on a number example: !roa 5
+
+Mini games: 
+    * Mini games will comeup randomly, there is always 1 active:
+    * Left or right: make a choice between !left or !right and hope for a win of 
+        * Dont forget you can lose 1.000 or win 5.000 
+    * Give away: it start randomly with any specific word from a user in the room (unkown) 
+        * when people say this word the user is added into the list. 
+        * All users on this list make a chance on a bones win up to 6.000.
 
 * ADD: answer corrector
     * If a answer contains more then 90% of the correct one its answered correctly.
