@@ -20,6 +20,13 @@ https://www.tapatalk.com/groups/petertje/
 * UPGRADE: Theme and bug fix.
     * theme is upgraded and bugs are fixed.
 
+* ADD: Daily reward system
+    * Daily bonus everyday on joining the room
+    * When joining the room you will get 5 daily reward tickets
+    * To use the tickets typ !daily
+    *  Things you can win in daily: Trivia points 90%, Lucky-Tickets 40%, Silver-hammer: 20%, Brown-hammer: 10%.
+
+
 * ADD: Lucky jackpot
     * Lucky jackpot can be won my !luck command
     * You will need lucky tickets to do !luck
@@ -29,10 +36,6 @@ https://www.tapatalk.com/groups/petertje/
     * 250 points is added in pot for every question that is answered correctly.
     * 1000 points is added if its happy hour, all donations are from the bot not the users points.
     * Family feud bonus will also donate to the lucky jackpot
-
-* ADD: Trivia Store
-    * You can now buy hammers and lucky tickets
-    * Command : !buy
 
 * Changes: Game modes 
     * Frenzy: This is a updated version and infused with Scrambloggle
@@ -81,28 +84,13 @@ Mini games:
 * ADD: More bonus.
     * Everyone will now get bonus if rise in: CPM, Hof, Speed list.
 
-* ADD: Left or Right
-    * Left or Right is a mini game that can popup randomly
-    * You need to make a choice !left Or !right, bot will make a randomly choice what side will win.
-
-* CHANGE: Word Frenzy
-    * Word frenzy got now scrambled words.
-    * if someone guess the scrambled word they get 5.000 points.
-
-* ADD: Daily reward system
-    * Daily bonus everyday on joining the room
-    * When joining the room you will get 5 daily reward tickets
-    * To use the tickets typ !daily
-    *  Things you can win in daily: Trivia points 90%, Lucky-Tickets 40%, Silver-hammer: 20%, Brown-hammer: 10%.
-
-* ADD: New Commands. 
+* ADD: Trivia Store
+    * You can now buy hammers and lucky tickets
     * Can now buy:
         * Life time hammer Silver 1.000.000 trivia points
         * Life time hammer Brown 2.000.000 trivia points
         * Lucky tickets, 5 for 10.000 trivia points
-
-
-
+        * Command : !buy
 
 
 ```
