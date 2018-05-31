@@ -52,7 +52,7 @@ https://www.tapatalk.com/groups/petertje/
 
 Mini games: 
     * Mini games will comeup randomly, there is always 1 active:
-    * Left or right: make a choice between !left or !right and hope for a win of 
+    * Left or right: make a choice between !left or !right and hope for a win
         * Dont forget you can lose 1.000 or win 5.000 
     * Give away: it start randomly with any specific word from a user in the room (unkown) 
         * when people say this word the user is added into the list. 
