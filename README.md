@@ -28,7 +28,7 @@ https://www.tapatalk.com/groups/petertje/
 
 
 * ADD: Lucky jackpot
-    * Lucky jackpot can be won my !luck command
+    * Lucky jackpot can be won by !luck command
     * You will need lucky tickets to do !luck
     * Every question will donate a amout in the lucky pot.
 
