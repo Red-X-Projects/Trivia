@@ -68,7 +68,7 @@ Misc, Science & Technology, Music 90's Chart Toppers, Name Next Lyric, Seoul 198
 
 
 * 2.1.1
-    * Next Update release: aug 30 2018
+    * Update release from: may 30 2018
 ```
 2.0.1 Release Notes may 30 2018:
 * FIXED: Huge trivia error, Points doubler questions.
