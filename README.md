@@ -7,6 +7,66 @@ https://www.tapatalk.com/groups/petertje/
 
 ## Update Patch Notes & Hotfixes
 
+
+* 3.0.1
+    * Next Update release: 20 01 2019
+```
+V2.8.0 Release Notes 19/09 2018:
+PATCH NOTES V2.8.0
+19.09.2018
+
+Twisted Trivia v2.8.0 NEW UPDATE
+This is update part 2 of the 4, it will be live in 5 hours.
+Includes fixes and features, List below!
+
+🍎 Typing words milestones.
+The more words,chars,lines you make the higher your level go's.
+Every milestone gives 5.000 bones.
+
+🍎Snap System
+There is a chance of a snap bonus if several people give the same answer. The first to type !snap after giving a good answer gets a bonus of 1,000 points.
+
+🍎 Daily Dedication bones.
+First question will give 50.000 for being a dedicated player.
+
+🍒New bonus rounds added:
+
+🍎Horse betting is one of your new bonus rounds, it works like rad of adventures and features the same gameplay, Everyone can bet between horse 1 and 9 (!horse 5) to earn trivia points.
+Notice (this bonus round aint finished, it will have more features soon)
+
+🍎Guess the word.
+It works like hangman and has the same features only look diffrent and its not about a hanging man anymore. Guessing letters is all users got to do untill someone knows the word or guessed the last letter.
+
+🍒Other known features part of this update:
+
+🍎Added Beserk mode, Beserk mode will activate automatically after answering 250 questions correct, Beserk mode will stay active for 25 answers with a bones of 5.000 Trivia points for every correct answer.
+With this beserk mode you can get 125.000+ trivia points.
+
+🍎Fixed an issue with spamming minigames, these are now on tickets, everyone can win "10" tickets by visiting the room 1 time in "24 hours", also tickets can be won by answer the question right, so to do minigames you must play trivia!
+
+🍎Fixed an issue with Luckypot and Slotpot being over "1.000.000" points, there is now a limit to "500.000" for both pots.
+
+🍎Improved user system, If you rank up in hoflist and stand on hofrank "45" then you will get "45.000" trivia points added.
+If you stand on hofrank "20" you will get "20.000" trivia points added. This is to rank users faster so everyone can have a chance on winning.
+
+🍎Second win has a longer time mode now.
+🍎Colours and theme changes.
+🍎If luckpot is full slotpot will take over.
+🍎Time of the day displays in every question, will also tell when its reset day.
+
+🍒We have added 40.000 New Questions.
+Here are some of the Categorys:
+
+Civil War, Classic Board Games, Christianity
+Childrens Literature, Chemistry, Cereal Appeal, Cartoon Trivia, Bestsellers
+Biblical Character, Definitions, fashion, Fast food, Fictional Detectives, Flags
+Film and Television , Food and drinks, Fruit, Cocktails, games, Geographic, history
+Misc, Science & Technology, Music 90's Chart Toppers, Name Next Lyric, Seoul 1988 Olympics, During World War, Anatomy & Medical, Animal Trivia, Sport and space, Entertainment, musical terms, and alot more!
+
+
+```
+
+
 * 2.1.1
     * Next Update release: aug 30 2018
 ```
